@@ -27,4 +27,4 @@ public class FirstProgram {
         System.out.println(a+" "+operator+" "+b+" = "+c);
     }
 }
-
+// my homework
